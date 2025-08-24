@@ -1,6 +1,6 @@
 # Skin Cancer Detection Using CNN
 
-This repository contains a deep learning project that applies **Convolutional Neural Networks (CNNs)** to classify skin lesion images into multiple categories (e.g., melanoma, nevus, keratosis, etc.).  
+This repository contains a deep learning upGrad project that applies **Convolutional Neural Networks (CNNs)** to classify skin lesion images into multiple categories (e.g., melanoma, nevus, keratosis, etc.).  
 
 The project demonstrates how to handle **class imbalance, data augmentation, and overfitting/underfitting detection** in medical imaging datasets.
 
